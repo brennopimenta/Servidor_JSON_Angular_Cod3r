@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta 2",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansumg S20",
+      "price": 300.1
+    },
+    {
+      "nome": "camisa",
+      "preco": "10.99",
+      "desconto": "1.99",
+      "id": 4
+    },
+    {
+      "name": "fogão",
+      "price": "10.99",
+      "id": 5
+    },
+    {
+      "name": "camisa",
+      "price": "10.99",
+      "id": 6
+    },
+    {
+      "name": "geladeira",
+      "price": "10.99",
+      "id": 7
+    },
+    {
+      "name": "testes 1",
+      "price": "999.9",
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 9
+    },
+    {
+      "name": "teste 2",
+      "price": "66.3",
+      "id": 10
+    },
+    {
+      "name": "teste 3",
+      "price": "10.00",
+      "id": 11
+    },
+    {
+      "name": "adfa",
+      "price": "12.00",
+      "id": 12
+    }
+  ]
+}
